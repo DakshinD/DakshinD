@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi, I'm @DakshinD
+-🔭 I’m currently working on an app for people with food allergies
+- 🌱 I’m currently learning SwiftUI and Python
 
 <!--
 **DakshinD/DakshinD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
