@@ -1,6 +1,6 @@
 ### Hi, I'm @DakshinD
-- 🔭 I’m currently working on an app for people with food allergies
-- 🌱 I’m currently learning SwiftUI and Python
+- 🔭 Incoming CS Freshman @ UT Austin
+- 🌱 I’m currently develooping a custom NER model for food recognition in Python
 
 <!--
 **DakshinD/DakshinD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
