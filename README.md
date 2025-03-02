@@ -1,6 +1,5 @@
 ### Hi, I'm @DakshinD
 - 🔭 CS Student @ UT Austin
-- 🌱 I’m currently developing a custom NER model for food recognition in Python
 
 <!--
 **DakshinD/DakshinD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
