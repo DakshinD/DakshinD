@@ -1,5 +1,5 @@
 ### Hi, I'm @DakshinD
-- 🔭 CS Student @ UT Austin
+- CS Student @ UT Austin
 - Interested in iOS development and virtualization technologies!
 <!--
 **DakshinD/DakshinD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
